@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b80f584c-67c7-481f-93ea-8b6c83c0469d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000177288284" />
+      <entry key="S10" value="1.0004214477178441" />
+      <entry key="S30" value="1.096280409298114" />
+      <entry key="S60" value="1.6877302129794691" />
+      <entry key="M2" value="3.807032468954768" />
+      <entry key="M5" value="13.093330952272344" />
+      <entry key="M10" value="28.904425360529867" />
+      <entry key="M15" value="40.51921208409922" />
+      <entry key="M30" value="61.27064593297493" />
+      <entry key="H1" value="82.72667582371672" />
+      <entry key="H2" value="102.35075622344422" />
+      <entry key="H4" value="116.74884354515034" />
+      <entry key="D1" value="132.37371898817494" />
+      <entry key="W1" value="135.47046344899292" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.473990414634705E-103" />
+      <entry key="S2" value="2.4277678389708E-26" />
+      <entry key="S5" value="5.6765597432034256E-11" />
+      <entry key="S10" value="7.5518055572640236E-6" />
+      <entry key="S30" value="0.022201900409846775" />
+      <entry key="S60" value="0.1910299989289324" />
+      <entry key="M2" value="0.6124318895837165" />
+      <entry key="M5" value="1.6302943879848326" />
+      <entry key="M10" value="2.9444881855416667" />
+      <entry key="M15" value="3.870276164406152" />
+      <entry key="M30" value="6.215018452861784" />
+      <entry key="H1" value="10.529853799943135" />
+      <entry key="H2" value="15.743579893843211" />
+      <entry key="H4" value="19.993077384680543" />
+      <entry key="D1" value="24.84719121546529" />
+      <entry key="W1" value="25.831136361418395" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.5904963307147651" />
+      <entry key="MS500" value="0.9000019297935121" />
+      <entry key="S2" value="0.974004268543241" />
+      <entry key="S5" value="0.989519610839691" />
+      <entry key="S10" value="0.9951276635435244" />
+      <entry key="S30" value="1.112069596623937" />
+      <entry key="S60" value="1.8615776944571558" />
+      <entry key="M2" value="4.3919998586262015" />
+      <entry key="M5" value="14.68667731694716" />
+      <entry key="M10" value="31.808158331918715" />
+      <entry key="M15" value="44.35120264678643" />
+      <entry key="M30" value="67.45548558920868" />
+      <entry key="H1" value="93.23424684920097" />
+      <entry key="H2" value="118.07936331877512" />
+      <entry key="H4" value="136.73292845295452" />
+      <entry key="D1" value="157.2191285183142" />
+      <entry key="W1" value="161.30133712798352" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LyQX4RaZOTeiz1Q5MeUNCc3rxT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.Project1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Project1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Project1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="myproject1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80f584c-67c7-481f-93ea-8b6c83c0469d" name="Changes" comment="" />
+      <created>1794423864648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794423864648</updated>
+      <workItem from="1794423865238" duration="7070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
